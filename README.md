@@ -117,7 +117,8 @@ In order to obtain the values for the completeness and soundness labels, the fol
     | 4 - 7 | C |
     | 8 - 11 | B | 
     | 12 - 15 | A |
-    | 16 - 19 | A+ |
+
+| 16 - 19 | A+ |
     | 20 - 22 | A++ |
     | 23 | A+++ |
 
@@ -165,3 +166,7 @@ In order to obtain the values for the completeness and soundness labels, the fol
 
 ## GE test status
 The following charts denotes the status of the Completeness and Soundness Labels of the diverse FIWARE GEs tested untill a specific period. The first chart concentrates the total number of FIWARE GEs tested and the total number of FIWARE GEs that obtained each label. The second chart details the labels values obtained for each FIWARE GEs tested.
+
+![total of ges tested and labels summary - october 08 2018](https://user-images.githubusercontent.com/39604832/46638763-0e122280-cb28-11e8-95d1-f1bdca23dc0a.png)
+
+![ge labels values summary - october 08 2018](https://user-images.githubusercontent.com/39604832/46638779-241fe300-cb28-11e8-8072-2720e96d183f.png)
