@@ -1,5 +1,5 @@
 # ITESM FINEXT QA Team
-This document concentrates the process followed by the ITESM team to test the documentation of each FIWARE GE available in the FINEXT QA Test Plan Spreadsheet. First, the specification points considered into the documentation test are presented; secondly, the formula (specification points) followed to obtain each value of soundness and completeness labels are described. All documentation tests were performed according to the FIWARE catalog info available at official site https://catalogue-server.fiware.org/. Documentation available at other web pages or in GitHub official sites are not considered, since the documentation must be accessible from the official web site and then redirect the user to additional information resources. An example of the official documentation site that are considered for evaluation is ```https://catalogue-server.fiware.org/enablers/'GE_name'/documentation```. New documentation versions must be updated at GEs' official site for further evaluation.
+This document concentrates the process followed by the ITESM team to test the documentation of each FIWARE GE available in the FINEXT QA Test Plan Spreadsheet. First, the specification points considered into the documentation test are presented; secondly, the formula (specification points) followed to obtain each value of soundness and completeness labels are described. All documentation tests were performed according to the FIWARE catalog info available at official site https://catalogue-server.fiware.org/. Documentation available at other web pages or in GitHub official sites are not considered since the documentation must be accessible from the official website and then redirect the user to additional information resources. An example of the official documentation site that is considered for evaluation is https://catalogue-server.fiware.org/enablers/'GE_name'/documentation. New documentation versions must be updated at GEs' official site for further evaluation.
 
 ## Review template
 The evaluation considerations are described from global to specific metrics as well as the values for each one of them. 
@@ -59,8 +59,8 @@ The evaluation considerations are described from global to specific metrics as w
 | The installation process is complemented by examples and figures | Yes \ No \ Partially \ NA \ Comments |
 | If the installation process fails: | |
 |     - Error feedback | Yes \ No \ Partially \ NA \ Comments |
-|     - Intructions for error recovery | Yes \ No \ Partially \ NA \ Comments |
-|     - The recovery process allows to complete installation | Yes \ No \ Partially \ NA \ Comments |
+|     - Instructions for error recovery | Yes \ No \ Partially \ NA \ Comments |
+|     - The recovery process allows completing the installation | Yes \ No \ Partially \ NA \ Comments |
 | Complete installation was achieved (If no): | |
 |     - No: Installation is not possible at all  | Yes \ No \ Partially \ NA \ Comments |
 |     - No: the procedure is too complex | Yes \ No \ Partially \ NA \ Comments |
@@ -167,7 +167,7 @@ In order to obtain the values for the completeness and soundness labels, the fol
     | 27 | A+++ |
 
 ## GE test status
-The following charts denotes the status of the Completeness and Soundness Labels of the diverse FIWARE GEs tested untill a specific period. The first chart concentrates the total number of FIWARE GEs tested and the total number of FIWARE GEs that obtained each label. The second chart details the labels values obtained for each FIWARE GEs tested.
+The following charts denote the status of the Completeness and Soundness Labels of the diverse FIWARE GEs tested until a specific period. The first chart concentrates the total number of FIWARE GEs tested and the total number of FIWARE GEs that obtained each label. The second chart details the labels values obtained for each FIWARE GEs tested.
 
 ![total of ges tested and labels summary - october 08 2018](https://user-images.githubusercontent.com/39604832/46638763-0e122280-cb28-11e8-95d1-f1bdca23dc0a.png)
 
