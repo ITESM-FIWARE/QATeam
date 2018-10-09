@@ -1,17 +1,20 @@
-# ITESM QA Team
-This document concentrates the process followed by the ITESM team to test the documentation of each FIWARE GE available in the FINEXT QA Test Plan Spreadsheet. First, the specification points considered into the documentation test are presented; secondly, the formula (specification points) followed to obtain each value of soundness and completeness labels are described. All documentation tests were performed according to the FIWARE catalog info available at official site https://catalogue-server.fiware.org/. Documentation available at other web pages or in GitHub official sites are not considered, since the documentation must be accessible from the official web site and then redirect the user to additional information resources. An example of the official documentation site that are considered for evaluation is ```https://catalogue-server.fiware.org/enablers/'GE_name'/documentation```. If you have a new version of the documentation, please search for your official URL site and update the documentation there for further evaluation.
+# ITESM FINEXT QA Team
+This document concentrates the process followed by the ITESM team to test the documentation of each FIWARE GE available in the FINEXT QA Test Plan Spreadsheet. First, the specification points considered into the documentation test are presented; secondly, the formula (specification points) followed to obtain each value of soundness and completeness labels are described. All documentation tests were performed according to the FIWARE catalog info available at official site https://catalogue-server.fiware.org/. Documentation available at other web pages or in GitHub official sites are not considered, since the documentation must be accessible from the official web site and then redirect the user to additional information resources. An example of the official documentation site that are considered for evaluation is ```https://catalogue-server.fiware.org/enablers/'GE_name'/documentation```. New documentation versions must be updated at GEs' official site for further evaluation.
 
 ## Review template
 The evaluation considerations are described from global to specific metrics as well as the values for each one of them. 
 1. **Summary**
-  - GE Complete installation achieved: Yes | No
-  - Complexity of the installation process: Easy | Reasonable | Difficult
-  - Type of installation: From installer | From release package | From provided scripts
-  - Documentation link: URL of the documentation web page
-  - Software documentation version: Number of the software documentation version tested
-  - Revision update: Date when the tests were performed
-  - OS installation: Name and version of the OS where the GE was tested
-  - Notes: Additional notes about issues and considerations
+
+| Metric | Value |
+| --- | --- |
+| GE Complete installation achieved | Yes \ No |
+| Complexity of the installation process | Easy \ Reasonable \ Difficult |
+| Type of installation | From installer \ From release package \ From provided scripts |
+| Documentation link | URL of the documentation web page |
+| Software documentation version | Number of the software documentation version tested |
+| Revision update | Date when the tests were performed |
+| OS installation | Name and version of the OS where the GE was tested |
+| Notes | Additional notes about issues and considerations |
 
 2. **General overview**
 
@@ -117,8 +120,7 @@ In order to obtain the values for the completeness and soundness labels, the fol
     | 4 - 7 | C |
     | 8 - 11 | B | 
     | 12 - 15 | A |
-
-| 16 - 19 | A+ |
+    | 16 - 19 | A+ |
     | 20 - 22 | A++ |
     | 23 | A+++ |
 
