@@ -171,4 +171,8 @@ The following charts denote the status of the Completeness and Soundness Labels 
 
 ![total of ges tested and labels summary - october 08 2018](https://user-images.githubusercontent.com/39604832/46638763-0e122280-cb28-11e8-95d1-f1bdca23dc0a.png)
 
+![total of ges tested and labels summary - december 13 2018](https://user-images.githubusercontent.com/39604832/50016909-240ceb00-ff90-11e8-8b98-c19d312d9efa.png)
+
 ![ge labels values summary - october 08 2018](https://user-images.githubusercontent.com/39604832/46638779-241fe300-cb28-11e8-8072-2720e96d183f.png)
+
+![ge labels values summary - december 13 2018](https://user-images.githubusercontent.com/39604832/50016914-2707db80-ff90-11e8-9a73-936aada9897e.png)
